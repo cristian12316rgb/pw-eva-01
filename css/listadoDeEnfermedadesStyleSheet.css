@@ -121,3 +121,10 @@ a{
   top: 311px;
   left: 199px;
 }
+
+.todoDelDetalles{ /* ESTILO DE "VER DETALLES" DE LISTA DE Enfermedades */
+  text-decoration: none;
+  border-style: solid;
+  border-color: grey;
+  background-color: white;
+  color: black}
